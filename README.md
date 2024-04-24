@@ -1,7 +1,6 @@
 ### Olá! Eu sou Guilherme Siqueira ✋
 
-![Siqueira GitHub stats](https://github-readme-stats.vercel.app/api?username=Gui94Siqueira
-&show_icons=true&theme=radical)
+![Siqueira GitHub stats](https://github-readme-stats.vercel.app/api?username=Gui94Siqueira&show_icons=true&theme=radical)
 
 Código é minha linguagem, inovação é meu objetivo.
 
