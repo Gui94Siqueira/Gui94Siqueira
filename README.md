@@ -2,7 +2,7 @@
 Desenvolvedor Web apaixonado por tecnologia e música.
 
 ###
- - 📚 Técnico em Desenvolvimento para Internet SENAC - SP. 🕐
+ - 📚 Técnico em Desenvolvimento para Internet SENAC - SP. 2/3 🕐
  - 📚 Análise e Desenvolvimento de Sistemas. 1/2 🕐
  - 📌 Osasco, São Paulo-BR
 
